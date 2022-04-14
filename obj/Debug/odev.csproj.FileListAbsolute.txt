@@ -1,0 +1,10 @@
+C:\Users\sevde\OneDrive\Masaüstü\4.SINIF-BAHAR\BİYOİNFORMATİK\odev\bin\Debug\odev.exe.config
+C:\Users\sevde\OneDrive\Masaüstü\4.SINIF-BAHAR\BİYOİNFORMATİK\odev\bin\Debug\odev.exe
+C:\Users\sevde\OneDrive\Masaüstü\4.SINIF-BAHAR\BİYOİNFORMATİK\odev\bin\Debug\odev.pdb
+C:\Users\sevde\OneDrive\Masaüstü\4.SINIF-BAHAR\BİYOİNFORMATİK\odev\obj\Debug\odev.csprojAssemblyReference.cache
+C:\Users\sevde\OneDrive\Masaüstü\4.SINIF-BAHAR\BİYOİNFORMATİK\odev\obj\Debug\odev.Form1.resources
+C:\Users\sevde\OneDrive\Masaüstü\4.SINIF-BAHAR\BİYOİNFORMATİK\odev\obj\Debug\odev.Properties.Resources.resources
+C:\Users\sevde\OneDrive\Masaüstü\4.SINIF-BAHAR\BİYOİNFORMATİK\odev\obj\Debug\odev.csproj.GenerateResource.cache
+C:\Users\sevde\OneDrive\Masaüstü\4.SINIF-BAHAR\BİYOİNFORMATİK\odev\obj\Debug\odev.csproj.CoreCompileInputs.cache
+C:\Users\sevde\OneDrive\Masaüstü\4.SINIF-BAHAR\BİYOİNFORMATİK\odev\obj\Debug\odev.exe
+C:\Users\sevde\OneDrive\Masaüstü\4.SINIF-BAHAR\BİYOİNFORMATİK\odev\obj\Debug\odev.pdb
